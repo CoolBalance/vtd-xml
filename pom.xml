@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ximpleware</groupId>
     <artifactId>vtd-xml</artifactId>
-    <version>2.12-SNAPSHOT</version>
+    <version>2.12</version>
     <description>VTD-XML XML PARSER from Ximpleware - ximpleware.com</description>
     <distributionManagement>
         <downloadUrl>https://www.dropbox.com/sh/ylishrnpast6n90/AAAlaILtS7Jh9KMFK22MAeaZa?dl=0</downloadUrl>
